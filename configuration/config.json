@@ -1,0 +1,14 @@
+{
+  "usb_manufacturer": "Logitech",
+  "usb_product": "Gaming Keyboard G213",
+  "usb_vid": "0x046D",
+  "usb_pid": "0xC336",
+  "volume_label": "GHUB MEMORY",
+  "boot_wait_time": 1,
+  "shell_wait": 1,
+  "payload_file": "configuration/payload.txt",
+  "autorun_on_boot": true,
+  "hide_usb_storage": false,
+  "close_shell_after_payload": false,
+  "close_shell_delay": 1
+}
